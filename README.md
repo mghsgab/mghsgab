@@ -1,7 +1,7 @@
 # ✨ Maria Gabriela Heleno
 
 <a href="https://github.com/mghsgab">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=38BDF8&width=700&lines=Bem-vindos+ao+meu+perfil;Estudante+de+Sistemas+de+Informação;UX%2FUI+%7C+Produto+%7C+Tecnologia" alt="Texto animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=38BDF8&width=700&lines=Bem-vindos+ao+meu+perfil;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;UX%2FUI+%7C+Produto+%7C+Tecnologia" alt="Texto animado" />
 </a>
 
 Olá! Me chamo **Maria Gabriela**. 💻✨
@@ -56,10 +56,6 @@ Tenho especial interesse em projetos que conectem tecnologia, dados, design e im
 
 ## 📫 Vamos conversar?
 
-<a href="https://github.com/mghsgab">
-  <img src="www.linkedin.com/in/maria-gabriela-heleno-0359aa3a1" />
-</a>
-
 <a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="www.linkedin.com/in/maria-gabriela-heleno-0359aa3a1" />
 </a>
